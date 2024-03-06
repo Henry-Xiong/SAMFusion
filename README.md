@@ -1,4 +1,3 @@
-# SAMFusion
-The official PyTorch implementation of paper "SAMFusion for Medical Image Segmentation".
+# SAMFusion: Segment Anything Model with Fusion Branch for Medical Image Segmentation
 
 ## Code to be released upon paper acceptance.
